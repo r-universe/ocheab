@@ -8,3 +8,6 @@
 [submodule "LipinskiFilters"]
 	path = LipinskiFilters
 	url = https://github.com/cran/LipinskiFilters
+[submodule "rQSAR"]
+	path = rQSAR
+	url = https://github.com/cran/rQSAR
