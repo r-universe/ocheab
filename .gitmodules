@@ -7,7 +7,7 @@
 	url = https://github.com/cran/FormulR
 [submodule "LipinskiFilters"]
 	path = LipinskiFilters
-	url = https://github.com/cran/LipinskiFilters
+	url = https://github.com/ocheab/lipinskifilters
 [submodule "rQSAR"]
 	path = rQSAR
 	url = https://github.com/cran/rQSAR
